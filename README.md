@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome 🐰
+
+My name is **Jerid** and I am a student from Saskatchewan Polytechnic in the program called Interactive Design and Technology.
 
 <!--
 **GrandCreative/GrandCreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
